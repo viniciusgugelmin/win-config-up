@@ -81,4 +81,4 @@ Any contributions you make are **greatly appreciated**.
 
 Vinícius Kruchelski Gugelmin - vinigugelmin@gmail.com
 
-Project Link: [https://github.com/viniciusgugelmin/win-config-up](https://github.com/viniciusgugelmin/config)
+Project Link: [https://github.com/viniciusgugelmin/win-config-up](https://github.com/viniciusgugelmin/win-config-up)
